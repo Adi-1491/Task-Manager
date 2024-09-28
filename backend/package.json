@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "nodemon app.js",
     "start": "node app.js",
+    "build": "echo 'No build step required for backend'",
     "dev-server": "npm run dev --prefix backend"
     
   },
